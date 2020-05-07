@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './static/assets/css/style.css';
 
 import { Provider } from 'react-redux'
 import rootReducer from './redux/reducers/index';
